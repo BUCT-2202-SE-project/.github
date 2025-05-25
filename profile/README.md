@@ -11,9 +11,9 @@
 
 | 子系统 | 技术栈 | 功能概述 | 代码仓库 |
 |--------|--------|----------|----------|
-| **📱 MuseLink-怀瑜** | Flutter/Dart | 跨平台移动端应用，提供文物AR扫描、时空穿越导航等沉浸式体验 | [MuseLink-怀瑜]([https://](https://github.com/BUCT-2202-SE-project/Team4-app)) |
+| **📱 MuseLink-怀瑜** | Flutter/Dart | 跨平台移动端应用，提供文物AR扫描、时空穿越导航等沉浸式体验 | [MuseLink-怀瑜](https://github.com/BUCT-2202-SE-project/Team4-app) |
 | **🌐 MuseLink-阡陌** | Vue3/Flask | Web端三维文物展厅，支持多馆藏虚拟漫游与文物时空关系图谱 | [MuseLink-阡陌](https://github.com/LY93886963/WebServiceSystem) |
-| **🛠️ MuseLink-圭臬** | Spring Boot | 文物数据中台管理系统，支持多源数据ETL与智能审核流程 | [MuseLink-圭臬]([https://](https://github.com/angelssdasd/zuoye)) |
+| **🛠️ MuseLink-圭臬** | Spring Boot | 文物数据中台管理系统，支持多源数据ETL与智能审核流程 | [MuseLink-圭臬](https://github.com/angelssdasd/zuoye) |
 | **🤖 MuseLink-千鉴** | Flask/Milvus | 智能文物问答引擎，支持多模态文物知识检索与语义推理 | [MuseLink-千鉴](https://github.com/BUCT-2202-SE-project/MuseLink-QianJian-QA-System) |
 | **🧠 MuseLink-寰枢** | Neo4j | 文物知识图谱系统，构建跨文明时空关系的语义网络 | [MuseLink-寰枢](https://github.com/BUCT-2202-SE-project/MuseLink-HuanShu-Knowledge_Map) |
 
