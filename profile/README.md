@@ -11,7 +11,7 @@
 
 | 子系统 | 主要技术栈 | 功能概述 | 代码仓库 |
 |--------|--------|----------|----------|
-| **📱 MuseLink-怀瑜** | HarmonyOS/Spring Boot | 跨平台移动端应用，提供文物展示、以图搜图等沉浸式体验 | [MuseLink-怀瑜](https://github.com/BUCT-2202-SE-project/Team4-app) |
+| **📱 MuseLink-怀瑜** | HarmonyOS | 跨平台移动端应用，提供文物展示、以图搜图等沉浸式体验 | [MuseLink-怀瑜](https://github.com/BUCT-2202-SE-project/Team4-app) |
 | **🌐 MuseLink-阡陌** | Vue3/Flask | Web端三维文物展厅，支持多馆藏虚拟漫游与文物时空关系图谱 | [MuseLink-阡陌](https://github.com/LY93886963/WebServiceSystem) |
 | **🛠️ MuseLink-圭臬** | Vue3/Spring Boot | 文物数据中台管理系统，支持多源数据与智能审核流程 | [MuseLink-圭臬](https://github.com/angelssdasd/zuoye) |
 | **🤖 MuseLink-千鉴** | Flask/Milvus | 智能文物问答引擎，支持多模态文物知识检索与语义推理 | [MuseLink-千鉴](https://github.com/BUCT-2202-SE-project/MuseLink-QianJian-QA-System) |
